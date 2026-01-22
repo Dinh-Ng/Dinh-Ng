@@ -1,3 +1,5 @@
+![Stats](./profile/stats.svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinh-Ng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinh-Ng's github stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinh-Ng)](https://github.com/anuraghazra/github-readme-stats)

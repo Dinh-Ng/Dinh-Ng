@@ -35,10 +35,18 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=${{ github.repository_owner }}&repo=extention-speech-to-story&theme=transparent
+          path: profile/pin-repo-extention-speech-to-story.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=codepen_colection&theme=transparent
+          path: profile/pin-repo-codepen_colection.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

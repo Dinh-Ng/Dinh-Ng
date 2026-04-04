@@ -6,8 +6,8 @@
 
 ---
 <div align="center">
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+  <img align="center" height=300 src="./profile/pin-repo-extention-speech-to-story.svg" />
+  <img align="center" height=300 src="./profile/pin-repo-codepen_colection.svg" />
 </div>
 
 <!--
@@ -23,7 +23,7 @@
     <img src="https://streak-stats.demolab.com?user=Dinh-Ng&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
   </a>
 </p>
----
+
 <!--
 **Dinh-Ng/Dinh-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

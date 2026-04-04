@@ -1,10 +1,14 @@
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinh-Ng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinh-Ng's github stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinh-Ng)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dinh-Ng&theme=transparent&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <!--
 **Dinh-Ng/Dinh-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

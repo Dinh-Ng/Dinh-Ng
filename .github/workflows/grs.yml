@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=shadow_blue
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=shadow_blue
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=extention-speech-to-story&theme=transparent
+          options: username=${{ github.repository_owner }}&repo=extention-speech-to-story&theme=shadow_blue
           path: profile/pin-repo-extention-speech-to-story.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=codepen_colection&theme=transparent
+          options: username=${{ github.repository_owner }}&repo=codepen_colection&theme=shadow_blue
           path: profile/pin-repo-codepen_colection.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           

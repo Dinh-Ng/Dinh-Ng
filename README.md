@@ -1,10 +1,15 @@
+<img src="./profile/github-header-banner.png" />
+
+
+## Stats:
 <div align="center">
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 </div>
 
----
+
+## Open Sources:
 <div align="center">
   <img align="center" height=300 src="./profile/pin-repo-extention-speech-to-story.svg" />
   <img align="center" height=300 src="./profile/pin-repo-codepen_colection.svg" />

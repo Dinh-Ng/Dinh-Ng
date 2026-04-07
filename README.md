@@ -11,8 +11,12 @@
 
 ## Open Sources:
 <div align="center">
-  <img align="center" height=300 src="./profile/pin-repo-extention-speech-to-story.svg" />
-  <img align="center" height=300 src="./profile/pin-repo-codepen_colection.svg" />
+  <a href="https://github.com/Dinh-Ng/extention-speech-to-story">
+    <img align="center" height=300 src="./profile/pin-repo-extention-speech-to-story.svg" />
+  </a>
+  <a href="https://github.com/Dinh-Ng/codepen_colection">
+    <img align="center" height=300 src="./profile/pin-repo-codepen_colection.svg" />
+  </a>
 </div>
 
 <!--

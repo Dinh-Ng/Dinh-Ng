@@ -3,19 +3,21 @@
 
 ## Stats:
 <div align="center">
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dinh-Ng&rank_icon=github&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=Dinh-Ng&rank_icon=github&include_all_commits=true&theme=github_dark_dimmed)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dinh-Ng&layout=compact&langs_count=8&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=Dinh-Ng&layout=compact&langs_count=8&theme=github_dark_dimmed)
+<!--![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)-->
 </div>
 
 
 ## Open Sources:
 <div align="center">
   <a href="https://github.com/Dinh-Ng/extention-speech-to-story">
-    <img align="center" height=300 src="./profile/pin-repo-extention-speech-to-story.svg" />
+    <img align="center" height=300 src="https://github-stats-extended.vercel.app/api/pin?username=Dinh-Ng&repo=extention-speech-to-story&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Dinh-Ng/codepen_colection">
-    <img align="center" height=300 src="./profile/pin-repo-codepen_colection.svg" />
+    <img align="center" height=300 src="https://github-stats-extended.vercel.app/api/pin?username=Dinh-Ng&repo=codepen_colection&theme=github_dark_dimmed" />
   </a>
 </div>
 
